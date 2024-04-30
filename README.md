@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @basharnaial
-- 👀 I’m interested in Programming Web/Applaction
-- 🌱 I’m currently learning PHP/msqyl/fream work
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi there 👋, I'm Bashar Naial  
+As a software engineer, I specialize in Laravel and game development, focusing on creating robust systems and engaging games. My passion drives me to innovate and enhance every project I undertake.
 
-<!---
-basharnaial/basharnaial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
